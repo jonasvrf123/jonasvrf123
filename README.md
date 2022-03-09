@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jonas Virtuoso</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasvrf123&color=red" alt="Profile views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasvrf123&color=pink" alt="Profile views"/> </p>
 
 - 🔥 Junior Web Developer & Fullstack focused student
 
