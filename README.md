@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jonas Virtuoso</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasvrf123&color=yellow" alt="Profile views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasvrf123&color=red" alt="Profile views"/> </p>
 
 - 🔥 Junior Web Developer & Fullstack focused student
 
@@ -16,6 +16,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jonasvrf123&show_icons=true&theme=radical" alt="Jonas Virtuoso stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasvrf123&layout=compact&theme=radical" alt="Jonas Virtuoso most languages"/>
+</p>
 
 ## 😄 &nbsp;Social Links
 
