@@ -3,8 +3,7 @@
 
 - 🔥 Junior Web Developer & Fullstack focused student
 
-- 🔭 I’m currently working at 
--  [UNINASSAU](<a href='https://www.uninassau.edu.br/institucional/nacional'target="_blank"></a>) 
+- 🔭 I’m currently working at [UNINASSAU] (<a href='https://www.uninassau.edu.br/institucional/nacional 'target="_blank"></a>) 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
