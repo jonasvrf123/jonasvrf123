@@ -1,8 +1,11 @@
 <h1>HI</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasvrf123&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 Junior Web Developer & Fullstack focused student
 
+- 🔭 I’m currently working at [UNINASSAU](https://www.uninassau.edu.br/institucional/nacional)
 
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 
 ## 🛠 &nbsp;Tech Stack
