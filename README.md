@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jonas Virtuoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasvrf123&color=yellow" alt="Profile views" /> </p>
 <p align="left" style="background:yellow">
-  <a href="www.linkedin.com/in/jonasvirtuoso" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+   <a href="www.linkedin.com/in/jonasvirtuoso" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-JonasVirtuoso-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
 </p>
 - 🔥 Junior Web Developer & Fullstack focused student
 
