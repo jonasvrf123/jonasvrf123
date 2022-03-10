@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [UNINASSAU](https://www.uninassau.edu.br/institucional/nacional)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, MySQL, Node.JS**
 
 
 ## 🐱‍💻 🛠 &nbsp;Tech Stack
