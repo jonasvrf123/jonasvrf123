@@ -31,10 +31,10 @@
   <img align="center" src="https://img.shields.io/badge/-jonasvrf123-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/jonas_virtuoso" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JonasVirtuoso-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Jonas_virtuoso-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/jonas-virtuoso-557a70230/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JonasVirtuoso-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Jonas-virtuoso-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/jonas.virtuoso/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jonas.virtuoso-05122A?style=flat&logo=instagram" alt="instagram"/>
