@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer & Fullstack focused student
 
-- 🔭 I’m currently working at [UNINASSAU](https://www.uninassau.edu.br/institucional/nacional)
+- 🔭 I’m currently working at [UNOPAR](https://www.unopar.com.br/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, MySQL, Node.JS**
 
